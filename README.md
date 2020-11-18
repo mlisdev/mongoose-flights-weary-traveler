@@ -1,6 +1,6 @@
 ### Weary Traveler Flight Tracker
 
-*** Lab Instructions:***
+** Lab Instructions: **
 This 3 part lab was assigned during my General Assembly software immersion. This lab is commonly referred to as the "mongoose flights lab."
 
 Part 1:
@@ -13,7 +13,7 @@ Part 3:
 Create a tickets schema with a many to many relationship with the flights model, modify the details view to include an add ticket form, and edit the details views to show any tickets a user has entered.
 ---
 
-*** Lessons Learned: ***
+** Lessons Learned: **
 Being my first real experience with Mongoose and Express, this was definitely a challenge. Figuring out the proper routing was difficult, and caused a lot of confusion and frustation. With patience, I was able to properly route the entire lab, and add in the tickets and destinations rendering.
 
 This was one of the first labs I really sought help from other students. As this was only module 2 in the bootcamp, a lot of us still didn't really know each other. It was good to seek out debugging assistance from other members of the cohort and to help them with things as well.
