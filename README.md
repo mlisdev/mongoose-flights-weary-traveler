@@ -1,6 +1,6 @@
 ### Weary Traveler Flight Tracker
 
-(Deployed app on Heroku)[https://weary-traveler.herokuapp.com/flights]
+[Deployed app on Heroku](https://weary-traveler.herokuapp.com/flights)
 
 **Lab Instructions:**
 This 3 part lab was assigned during my General Assembly software immersion. This lab is commonly referred to as the "mongoose flights lab."
